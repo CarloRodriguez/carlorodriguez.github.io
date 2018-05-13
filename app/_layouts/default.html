@@ -12,31 +12,38 @@
     <paper-scroll-header-panel drawer fixed>
       <div class="wrapper"> <!-- necessary to push copyright to bottom -->
         <!-- Drawer Toolbar -->
-        <nav-image src="{{ site.baseurl }}/images/material-bg-10.png" id="menu-img"></nav-image>
+        <nav-image src="{{ site.baseurl }}/images/material-custom.jpg" id="menu-img"></nav-image>
 
         <!-- Drawer Content -->
         <paper-menu class="list" attr-for-selected="data-route" selected="{{route}}" on-iron-select="onMenuSelect">
           <a href="{{ site.baseurl }}/"><iron-icon icon="home"></iron-icon><span>Home</span></a>
           <a href="{{ site.baseurl }}/about"><iron-icon icon="social:person"></iron-icon><span>About</span></a>
           <a href="{{ site.baseurl }}/archive"><iron-icon icon="history"></iron-icon><span>Archive</span></a>
-          <a data-route="contact" href="{{ site.baseurl }}/feed.xml"><iron-icon icon="fa:rss"></iron-icon><span>RSS Feed</span></a>
+          <!-- <a data-route="contact" href="{{ site.baseurl }}/feed.xml"><iron-icon icon="fa:rss"></iron-icon><span>RSS Feed</span></a> -->
         </paper-menu>
 
-        <my-nav-subheader>Elsewhere</my-nav-subheader>
+        <my-nav-subheader>Links</my-nav-subheader>
         <paper-menu class="list" on-iron-select="onMenuSelect">
-          {% if site.author_website %}
-          <a href="{{ site.author_website }}"><iron-icon icon="av:web"></iron-icon><span>My Website</span></a>
-          {% endif %}
           {% if site.github_username %}
-          <a href="https://github.com/{{ site.github_username }}"><iron-icon icon="fa:github"></iron-icon><span>My Github</span></a>
+          <a href="https://github.com/{{ site.github_username }}"><iron-icon icon="fa:github"></iron-icon><span>Github</span></a>
           {% endif %}
+          <a href="https://stackoverflow.com/users/2989680/carlo-rodr%c3%adguez"><iron-icon icon="fa:stack-overflow"></iron-icon><span>StackOverflow</span></a>
+          <a href="https://www.linkedin.com/in/carloerodriguez/"><iron-icon icon="fa:linkedin"></iron-icon><span>LinkedIn</span></a>
           {% if site.email %}
           <a data-route="contact" href="mailto:{{ site.email }}"><iron-icon icon="mail"></iron-icon><span>Contact</span></a>
           {% endif %}
         </paper-menu>
-        <div class="push"></div>
+
+        <my-nav-subheader>Others</my-nav-subheader>
+        <paper-menu class="list" on-iron-select="onMenuSelect">
+          <a href="{{ site.baseurl }}/resume"><iron-icon icon="icons:view-list"></iron-icon><span>Resume</span></a>
+          <a href="{{ site.baseurl }}/portfolio"><iron-icon icon="icons:work"></iron-icon><span>Portfolio</span></a>
+          <a href="{{ site.baseurl }}/projects"><iron-icon icon="icons:apps"></iron-icon><span>Projects</span></a>
+        </paper-menu>
+
+        <!-- <div class="push"></div> -->
       </div>
-      <div id="copyright-info">&copy; {{ site.time | date: '%Y' }}, {{ site.author }}</div>
+      <!-- <div id="copyright-info">&copy; {{ site.time | date: '%Y' }}, {{ site.author }}</div> -->
     </paper-scroll-header-panel>
 
     <!-- Main Area -->

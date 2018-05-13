@@ -1,30 +1,30 @@
-.highlight .hll { background-color: #49483e }
+.highlight .hll { background-color: #263238 }
 .highlight .ge { font-style: italic } /* Generic.Emph */
 .highlight .gs { font-weight: bold } /* Generic.Strong */
 
-.highlight .err { color: #f44336; background-color: #1e0010 } /* Error */
+.highlight .err { color: #f36c60; background-color: #263238 } /* Error */
 
 .highlight .c, .highlight .cm, .highlight .cp, .highlight .c1, .highlight .cs {
-    color: #9E9E9E } /* Comment */
+    color: #607d8b } /* Comment */
 .highlight .k, .highlight .kc, .highlight .kd, .highlight .kp, .highlight .kr, .highlight .kt, .highlight .no {
-    color: #03A9F4 } /* Keyword */
+    color: #ce93d8 } /* Keyword */
 .highlight .n, .highlight .nb, .highlight .ni, .highlight .nl, .highlight .nn, .highlight .py, .highlight .nv, .highlight .w, .highlight .bp, .highlight .vc, .highlight .vg, .highlight .vi {
-    color: #009688 } /* Name */
+    color: #8c9eff } /* Name */
 .highlight .p {
-    color: #FF5722 }  /* Punctuation */
+    color: #e8eaf6 }  /* Punctuation */
 .highlight .o, .highlight .ow, .highlight .nt, .highlight .kn {
-    color: #E91E63 } /* Operator */
+    color: #4dd0e1 } /* Operator */
 .highlight .l, .highlight .m, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .mo, .highlight .se, .highlight .il {
-    color: #9C27B0 } /* Literal ???? */
+    color: #fff59d } /* Literal ???? */
 .highlight .s, .highlight .sb, .highlight .sc, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .si, .highlight .sx, .highlight .sr, .highlight .s1, .highlight .ss, .highlight .ld {
-    color: #FF9800 } /* Literal.String */
+    color: #dce775 } /* Literal.String */
 .highlight .na, .highlight .nc, .highlight .nd, .highlight .ne, .highlight .nf, .highlight .nx {
-    color: #4CAF50 } /* Name.Attribute */
+    color: #ffcc80 } /* Name.Attribute */
 
 .highlight, .highlighttable {
     /*white-space: pre;
     word-wrap: normal;*/
-    background-color: #ececec;
+    background-color: #263238;
     padding: 16px;
     line-height: 24px;
     display: block;

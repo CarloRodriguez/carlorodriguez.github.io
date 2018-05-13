@@ -1,21 +1,4 @@
-## [DEMO](http://juliaebert.com/jekyll-polymer)
-
-A [Jekyll](https://jekyllrb.com/) theme built with [Google's Polymer library](https://www.polymer-project.org/1.0/) and following the material design specifications. (Currently, this uses Polymer 1.x, but I have plans to update to 2.x.)
-
-There are a few custom web components included designed to match Material design.
-
-I created this theme because I couldn't figure out how to set up a Jekyll project to play nicely with Polymer, and because I didn't find any Jekyll blog themes available that used Polymer or followed Google's material design specifications.
-
-## Features
-
-- Full-text search with [simple-jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)
-- Paginated home page
-- Support for featured post images (appear on cards in previews)
-- Threaded comments with Disqus
-- Google Analytics integration
-- One-command deployment to Github Pages
-- Tagged posts with archive by tag
-- Authorship with Gravatar icons
+## Powered by [Jekyll](https://jekyllrb.com/) and [Jekyll Polymer](http://juliaebert.com/jekyll-polymer)
 
 ## Installation instructions
 
@@ -34,7 +17,7 @@ I created this theme because I couldn't figure out how to set up a Jekyll projec
   - `media/`: Other user content (PDFs, videos, etc.) for final product
   - `scripts/`: Javascript files
   - `styles/`: Custom CSS
-  - `_data/authors.yml`: List of authors for posts and pages 
+  - `_data/authors.yml`: List of authors for posts and pages
 - `dist/`: Built output from Gulp. (Use to publish static content)
 - `node_modules`: Content installed via npm goes here
 
@@ -57,36 +40,6 @@ I created this theme because I couldn't figure out how to set up a Jekyll projec
 `gulp deploy-gh-pages`: Deploy the current build to the gh-pages branch of your repository.
 
 `gulp build-deploy-gh-pages`: Rebuild and then deploy. (Equivalent to `gulp && gulp deploy-gh-pages`)
-
-## Future Improvements:
-
-- Improve gulp build
-    - Minimize JS, CSS, HTML
-- Search
-    - Escape toggles search show
-    - arrow keys/tab moves focus on search results
-    - better animation for search bar leaving/entering
-- Navigation drawer
-    - Change hover effect on drawer items (see Google Music)
-    - Make selected/active items in drawer colored
-- Page transition animations
-- Give option of setting card-colorbar color
-- Add ripple effect to nav drawer menu items
-- Pagination:
-    - Maybe replace with actual buttons
-    - hover effects like buttons?
-    - Handle if it gets too wide for screen? (limit number of page links)
-- Tags
-    - Allow filtering by tag (have list of all tags)
-- Add material box or lightbox for images
-- Add 'source' option for YAML frontmatter
-- increase spacing between list items
-- Fix things like header-panel to utilize updates to polymer paper elements
-
-### Known issues
-
-- JS and HTML aren't minimized
-- Too much space on cards between end of excerpt and read more button
 
 ## License
 
