@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlo Rodriguez</title>
+    <description>This is a material design personal site.
+</description>
+    <link>https://carlorodriguez.github.io/</link>
+    <atom:link href="https://carlorodriguez.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 13 May 2018 15:23:27 -0500</pubDate>
+    <lastBuildDate>Sun, 13 May 2018 15:23:27 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>The NLP approach</title>
+        <description>&lt;p&gt;We can notice several kinds of results:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The results you get slowly and inconsistently&lt;/li&gt;
+  &lt;li&gt;The results you get slowly and effectively&lt;/li&gt;
+  &lt;li&gt;The results you get faster and inconsistently&lt;/li&gt;
+  &lt;li&gt;The results you get faster and effectively&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Imagine that you have access to the best therapist/coaches of the whole time the kind of people who makes people get the results from number 4 and you get access to them and finally develop an approach to get the greatest results. NLP was created this way. For example, &lt;a href=&quot;https://en.wikipedia.org/wiki/Milton_H._Erickson&quot;&gt;Milton Erickson&lt;/a&gt; has being one of the greatest psychiatrist of the whole time, his patients he was getting results faster and effectively and NLP born from developing the same things that Milton Erickson and other great psychiatrist were doing with their patients.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, NLP is not the answer for everything. Actually it needs to be combined with some other approaches for getting the results from number 4. So when I say “the NLP approach” what I mean is the NLP approach combined with other effective approaches but taking NLP as a base and a pillar to breakthrough and create the results faster and effectively.&lt;/p&gt;
+
+&lt;p&gt;As everyone I struggle with habits, patterns, emotions, thoughts and believes.&lt;/p&gt;
+
+&lt;p&gt;I tried to find ways for achieving the results I wanted. And I found something important, if you want to achieve a specific result in your life you have plenty of options, techniques, strategies and methods and most of them make sense when you study them and some others don’t.&lt;/p&gt;
+
+&lt;p&gt;The key here is you can struggle to get the results with one approach for 1 year and achieve little progress or you can take another approach that will give you the results that you want faster and effectively. The question is “what should I choose?”. Hopefully I can share with you my results and experiences using the NLP approach so you can apply them also and start getting the results you want no matter what.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Apr 2018 21:00:00 -0500</pubDate>
+        <link>https://carlorodriguez.github.io/2018/04/27/the-nlp-approach/</link>
+        <guid isPermaLink="true">https://carlorodriguez.github.io/2018/04/27/the-nlp-approach/</guid>
+        
+        <category>nlp</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Frankenstein and A.I. Artificial Intelligence</title>
+        <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&quot;Frankenstein; Or, The Modern Prometheus&quot;&lt;/code&gt; by Mary Shelley was result of an improvised ghost story as part of entertainment  while she was visiting a common friend of her and his husband 200 years ago. Besides having a lot of interpretations, this work shows how people can react to new technologies. By the time Shelley wrote Frankenstein, a new technology was appearing of course I’m talking about electricity. The new technology was unknown for most researches and for population it was source of fears and imagination. We all know Frankenstein and the idea people was dealing with at that time was “you can give life with electricity an unwanted life that will hurt humans”.&lt;/p&gt;
+
+&lt;p&gt;Does this sound like something we are dealing with right now? Let’s change electricity for Artificial Intelligence.&lt;/p&gt;
+
+&lt;p&gt;The idea we are dealing with now is “you can give life with A.I. an unwanted life that will hurt humans”.&lt;/p&gt;
+
+&lt;p&gt;Let’s take a look back to electricity, 200 years after Mary Shelley wrote Frankenstein is very hard to think about doing our current activities without electricity it moves our homes, works and environments.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If we could talk to the people Mary Shelley was telling the Frankenstein story 200 years ago what would we tell them?&lt;/li&gt;
+  &lt;li&gt;What would tell us the people from 200 years after 2018 about A.I.?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 19 Mar 2018 23:14:32 -0600</pubDate>
+        <link>https://carlorodriguez.github.io/2018/03/20/frankenstein-and-ai-artificial-intelligence/</link>
+        <guid isPermaLink="true">https://carlorodriguez.github.io/2018/03/20/frankenstein-and-ai-artificial-intelligence/</guid>
+        
+        <category>software</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>My terminal setup</title>
+        <description>&lt;h2 id=&quot;unix-like-environment&quot;&gt;UNIX-like environment&lt;/h2&gt;
+
+&lt;p&gt;To me a UNIX-like system for developing software is a must have.&lt;/p&gt;
+
+&lt;h2 id=&quot;hyper&quot;&gt;Hyper&lt;/h2&gt;
+
+&lt;p&gt;I use &lt;a href=&quot;https://hyper.is/&quot;&gt;hyper&lt;/a&gt; as my terminal application.&lt;/p&gt;
+
+&lt;p&gt;But most of the time I run shells under Emacs with &lt;code class=&quot;highlighter-rouge&quot;&gt;ansi-term&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;fish-a-namefish-a&quot;&gt;Fish &lt;a name=&quot;fish&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The reason I’m attached to &lt;a href=&quot;http://fishshell.com/&quot;&gt;fish&lt;/a&gt; is the
+Autosuggestions feature.&lt;/p&gt;
+
+&lt;p&gt;I run shell commands very often and some times I
+can’t remember which arguments the command takes exactly,
+as soon as I type the first chars of the command
+fish suggest me how to complete such command, it suggests a
+previous commands I’ve executed.&lt;/p&gt;
+
+&lt;p&gt;Another thing is fish highlights invalid commands as default, coloring
+them with red, e.g. if I misspell &lt;code class=&quot;highlighter-rouge&quot;&gt;gti&lt;/code&gt; I can prevent myself
+from running that invalid command and rectify it with &lt;code class=&quot;highlighter-rouge&quot;&gt;git&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;consider-before-using-fish&quot;&gt;Consider before using Fish&lt;/h4&gt;
+
+&lt;p&gt;Many people complaint because fish isn’t POSIX/bash-compliant, is that
+truly bad as for not using it? see this
+&lt;a href=&quot;https://news.ycombinator.com/item?id=5723235&quot;&gt;topic&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;autojump&quot;&gt;Autojump&lt;/h2&gt;
+
+&lt;p&gt;Running &lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt; to browse a bunch of directories is a pain, autojump
+helps me to &lt;code class=&quot;highlighter-rouge&quot;&gt;cd&lt;/code&gt; into directories in a faster and less mental effort
+way.&lt;/p&gt;
+
+&lt;p&gt;Get it from &lt;a href=&quot;https://github.com/joelthelion/autojump&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pure-theme&quot;&gt;Pure theme&lt;/h2&gt;
+
+&lt;p&gt;I use &lt;a href=&quot;https://github.com/brandonweiss/pure.fish&quot;&gt;Pure.fish&lt;/a&gt; as the
+command prompt theme.&lt;/p&gt;
+
+&lt;h2 id=&quot;color-theme&quot;&gt;Color theme&lt;/h2&gt;
+
+&lt;p&gt;Colors are really important to me, it defines whether I can see a
+terminal all day or not, but is also a matter of taste, so I really
+like:
+&lt;a href=&quot;https://github.com/dperrera/hyperterm-material&quot;&gt;hyperterm-material&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;font&quot;&gt;Font&lt;/h2&gt;
+
+&lt;p&gt;If you can distinguish between the following characters:
+&lt;code class=&quot;highlighter-rouge&quot;&gt;i&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;I&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;l&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;L&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;1&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;o&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;O&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;0&lt;/code&gt;
+Then that’s the right font for you.&lt;/p&gt;
+
+&lt;p&gt;I’m currently using &lt;a href=&quot;http://sourcefoundry.org/hack/&quot;&gt;Hack&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 May 2015 03:14:32 -0500</pubDate>
+        <link>https://carlorodriguez.github.io/2015/05/03/my-terminal-setup/</link>
+        <guid isPermaLink="true">https://carlorodriguez.github.io/2015/05/03/my-terminal-setup/</guid>
+        
+        <category>software</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Android platform specific code with libGDX</title>
+        <description>&lt;p&gt;This is how I achieved to run android platform specific code with
+&lt;a href=&quot;http://libgdx.badlogicgames.com/&quot;&gt;libGDX&lt;/a&gt;, this example is about
+running a Toast.&lt;/p&gt;
+
+&lt;h2 id=&quot;project-example&quot;&gt;Project example&lt;/h2&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&quot;https://github.com/kovacsakos&quot;&gt;Ákos Kovács&lt;/a&gt; for his
+&lt;a href=&quot;https://github.com/kovacsakos/gdx-interfaces&quot;&gt;project example&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;action-resolver&quot;&gt;Action Resolver&lt;/h2&gt;
+
+&lt;p&gt;Add an ActionResolver interface under the core project.&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;interface&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ActionResolver&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;showToast&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;CharSequence&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Here you can add the methods you’re going to need, this example only
+handles a toast, so for showing a toast I have made a &lt;code class=&quot;highlighter-rouge&quot;&gt;showToast&lt;/code&gt;
+method which takes a text, this text is the text the toast will show.&lt;/p&gt;
+
+&lt;h2 id=&quot;action-resolver-for-android&quot;&gt;Action Resolver for Android&lt;/h2&gt;
+
+&lt;p&gt;Add an ActionResolverAndroid class under the android project.&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ActionResolverAndroid&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;implements&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ActionResolver&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;Handler&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;handler&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;Context&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;ActionResolverAndroid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Context&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;handler&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Handler&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;context&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;showToast&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;final&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CharSequence&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;handler&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;post&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Runnable&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;nd&quot;&gt;@Override&lt;/span&gt;
+            &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;run&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;n&quot;&gt;Toast&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;makeText&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Toast&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;LENGTH_SHORT&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;show&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+            &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;});&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;Here we define the &lt;code class=&quot;highlighter-rouge&quot;&gt;showToast&lt;/code&gt; method, to be able to show a toast we
+need a &lt;code class=&quot;highlighter-rouge&quot;&gt;handler&lt;/code&gt;, be sure you import the &lt;code class=&quot;highlighter-rouge&quot;&gt;import android.os.Handler;&lt;/code&gt;
+and not other one (I committed that mistake).&lt;/p&gt;
+
+&lt;p&gt;The handler is just needed if you’re going to show some GUI stuff.&lt;/p&gt;
+
+&lt;h3 id=&quot;cannot-resolve-method-error&quot;&gt;Cannot resolve method error&lt;/h3&gt;
+
+&lt;p&gt;Some methods will require you to prepend the context, so for example
+trying to invoke the method &lt;code class=&quot;highlighter-rouge&quot;&gt;startActivity(intent)&lt;/code&gt; will lead you
+to an error, to solve this prepend the context as follows.&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;context&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;startActivity&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;intent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;your-game&quot;&gt;Your Game&lt;/h2&gt;
+
+&lt;p&gt;Under your core project there is a class which extends for the &lt;code class=&quot;highlighter-rouge&quot;&gt;Game&lt;/code&gt;
+class, in this example that game class is called &lt;code class=&quot;highlighter-rouge&quot;&gt;YourGame&lt;/code&gt;, add the
+following.&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;YourGame&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Game&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ActionResolver&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;actionResolver&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Add the following in the constructor.&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;YourGame&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ActionResolver&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;actionResolver&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;actionResolver&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;actionResolver&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;android-launcher&quot;&gt;Android Launcher&lt;/h2&gt;
+
+&lt;p&gt;Under your android project there is a class named &lt;code class=&quot;highlighter-rouge&quot;&gt;AndroidLauncher&lt;/code&gt;,
+we need to edit that class, It should look like this.&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;AndroidLauncher&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;extends&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;AndroidApplication&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;ActionResolverAndroid&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;actionResolverAndroid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;nd&quot;&gt;@Override&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;protected&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;onCreate&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Bundle&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;savedInstanceState&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;kd&quot;&gt;super&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;onCreate&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;savedInstanceState&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;actionResolverAndroid&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ActionResolverAndroid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;AndroidApplicationConfiguration&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;AndroidApplicationConfiguration&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;YourGame&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;actionResolverAndroid&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;your-screens&quot;&gt;Your Screens&lt;/h2&gt;
+
+&lt;p&gt;In this case you will commonly try to use a Toast in a &lt;code class=&quot;highlighter-rouge&quot;&gt;Screen&lt;/code&gt;.
+Create a new screen like follows.&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;YourScreen&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;implements&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Screen&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;YourGame&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;game&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Then modify &lt;code class=&quot;highlighter-rouge&quot;&gt;YourScreen&lt;/code&gt; class constructor like follows.&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;YourScreen&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;final&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;YourGame&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;game&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;game&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;game&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Now from &lt;code class=&quot;highlighter-rouge&quot;&gt;YourGame&lt;/code&gt; class you’ll set the new screen like this:&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;setScreen&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;YourScreen&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;));&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;invoking-the-showtoast-method&quot;&gt;Invoking the showToast method&lt;/h2&gt;
+
+&lt;p&gt;In a &lt;code class=&quot;highlighter-rouge&quot;&gt;Screen&lt;/code&gt; you can invoke it in the &lt;code class=&quot;highlighter-rouge&quot;&gt;show&lt;/code&gt; mehtod.&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nd&quot;&gt;@Override&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;show&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To invoke it use the following.&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;game&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;actionResolver&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;showToast&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hi!&quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;send-data-back-to-game&quot;&gt;Send data back to game&lt;/h2&gt;
+
+&lt;p&gt;Sometimes we’ll need to inform about data changes back to the game. We
+do this as follows.&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;Gdx&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;postRunnable&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Runnable&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nd&quot;&gt;@Override&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;run&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;cm&quot;&gt;/* Here goes some data to send back to game */&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;game&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;progressLoaded&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;});&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 05 Oct 2014 03:53:00 -0500</pubDate>
+        <link>https://carlorodriguez.github.io/2014/10/05/android-platform-specific-code-with-libgdx/</link>
+        <guid isPermaLink="true">https://carlorodriguez.github.io/2014/10/05/android-platform-specific-code-with-libgdx/</guid>
+        
+        <category>software</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
