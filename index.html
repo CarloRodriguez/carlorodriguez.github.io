@@ -3,13 +3,20 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Carlo Rodriguez</title>
+    <title>Daily Budget</title>
+    <script src="js/libs/react.development.js"></script>
+    <script src="js/libs/react-dom.development.js"></script>
+    <script src="js/libs/require.min.js"></script>
   </head>
   <body>
-    <ul>
-      <li>
-        <a href="test.html">Daily Budget</a>
-      </li>
-    </ul>
+    <div id="root"></div>
   </body>
+  <script>
+    window.onload = function() {
+        requirejs.config({
+            baseUrl: 'js/app'
+        });
+        requirejs(['main']);
+    };
+  </script>
 </html>
